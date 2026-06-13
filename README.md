@@ -56,9 +56,9 @@ Este projeto foi desenvolvido para praticar conceitos de Front-End, incluindo:
 
 Alexandre Costa
 
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/aleblack25
 
-LinkedIn: https://linkedin.com/in/seu-perfil
+LinkedIn: linkedin.com/in/alexandre-costa-dev
 
 ---
 
