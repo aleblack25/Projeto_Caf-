@@ -1,6 +1,6 @@
 # ☕ Café com Amor
 
-Uma landing page moderna para cafeteria, desenvolvida com HTML, CSS e JavaScript. O projeto apresenta uma experiência visual envolvente com vídeo de fundo, design responsivo e interface intuitiva.
+Uma landing page moderna para cafeteria, desenvolvida com HTML, CSS e JavaScript. O projeto foi criado para praticar desenvolvimento Front-End, utilizando vídeo de fundo, design responsivo e interação com JavaScript.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -13,11 +13,11 @@ Uma landing page moderna para cafeteria, desenvolvida com HTML, CSS e JavaScript
 ## ✨ Funcionalidades
 
 * Vídeo de fundo na página inicial
-* Layout responsivo para diferentes dispositivos
+* Layout responsivo
 * Menu de navegação
-* Seção "Sobre Nós"
+* Seção Sobre Nós
 * Modal de contato
-* Efeitos visuais e animações com CSS
+* Efeitos visuais com CSS
 * Interface moderna e intuitiva
 
 ## 🌐 Projeto Online
@@ -26,14 +26,12 @@ Uma landing page moderna para cafeteria, desenvolvida com HTML, CSS e JavaScript
 
 https://aleblack25.github.io/Projeto_Cafe-/
 
-## 📸 Preview
 
-![Preview do Projeto](./img/preview.png)
 
 ## 📂 Estrutura do Projeto
 
 ```text
-Projeto_Cafe/
+Projeto_Cafe
 ├── img/
 ├── videos/
 ├── index.html
@@ -44,23 +42,23 @@ Projeto_Cafe/
 
 ## 🎯 Objetivo
 
-Este projeto foi desenvolvido para praticar conceitos fundamentais do desenvolvimento Front-End, incluindo:
+Este projeto foi desenvolvido para aprimorar conhecimentos em:
 
-* Estruturação semântica com HTML
+* Estruturação de páginas com HTML
 * Estilização avançada com CSS
 * Manipulação do DOM com JavaScript
 * Responsividade
-* Utilização de vídeos e imagens em páginas web
+* Organização de projetos Front-End
 
 ## 🛠️ Habilidades Desenvolvidas
 
-* Desenvolvimento de Landing Pages
-* Organização de projetos Front-End
+* Landing Pages
 * Responsividade
 * Manipulação do DOM
-* Criação de modais
-* Efeitos visuais com CSS
-* Versionamento com Git e GitHub
+* Criação de Modais
+* Efeitos Visuais
+* Git e GitHub
+* Publicação com GitHub Pages
 
 ## 👨‍💻 Autor
 
@@ -70,10 +68,11 @@ Este projeto foi desenvolvido para praticar conceitos fundamentais do desenvolvi
 
 🐙 GitHub: https://github.com/aleblack25
 
-## 📌 Status do Projeto
+## 📌 Status
+
+✅ Projeto Concluído
 
 ---
 
 Desenvolvido durante meus estudos de Desenvolvimento Front-End 🚀
 
-Desenvolvido durante os estudos de Front-End 🚀
